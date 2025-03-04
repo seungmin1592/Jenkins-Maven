@@ -1,6 +1,7 @@
 <template>
   <div class="auth-cont-wrap">
 
+    <h2>v1</h2>
     <h2>
       <p>ENV TYPE => <span>{{envType}}</span></p>
     </h2>
